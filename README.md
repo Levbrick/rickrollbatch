@@ -1,2 +1,1 @@
-# rickrollbatch
-A rickroll made in batch
+This script was made by LEVBRICK
